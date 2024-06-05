@@ -1,4 +1,3 @@
-
 # Player Info
 Allows script access: false
 Renderer: wgpu
